@@ -1,0 +1,55 @@
+#form {
+  height: 400px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  margin-top: 70px;
+  border: #0d509d 3px solid;
+  border-radius: 20px;
+}
+#form h1 {
+  color: #0d509d;
+  padding: 0;
+  margin: 0;
+}
+#form p {
+  color: #111111;
+}
+.question {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  color: #111111;
+}
+
+#input1 {
+  width: 80%;
+  height: 30px;
+  margin-top: 10px;
+}
+#input2 {
+  width: 80%;
+  height: 80px;
+  margin-top: 10px;
+}
+#input3 {
+  margin: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: Product Sans;
+  color: white;
+  background-color: #0d509d;
+  padding: 0;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  width: 170px;
+  height: 40px;
+}
